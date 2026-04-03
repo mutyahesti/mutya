@@ -39,10 +39,10 @@ li{
 }
 
 a{
-    color:black;
+    color:blue;
     text-decoration:none;
 }
 
-p a{
-    color:black !important;
+.menu a{
+    color:white;
 }
